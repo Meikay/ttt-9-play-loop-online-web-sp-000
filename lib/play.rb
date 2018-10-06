@@ -41,4 +41,7 @@ def play(board)
   while vacant < 9
     vacant += 1
     turn(board)
+  end
 end  
+    
+  
