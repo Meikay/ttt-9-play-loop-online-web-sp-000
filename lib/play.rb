@@ -42,6 +42,4 @@ def play(board)
     vacant += 1
     turn(board)
   end
-end  
-    
-  
+end
